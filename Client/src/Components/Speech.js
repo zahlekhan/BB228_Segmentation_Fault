@@ -113,7 +113,7 @@ const Speech = (props) => {
 							{abort ? (
 								'Aborting! please wait for a while..'
 							) : (
-								'Our bot, Adil, is Listening to your queries'
+								'Our bot, Aditi, is Listening to your queries'
 							)}
 						</Modal.Header>
 						<StyledImage wrapped size='large' src={abort ? './trash.gif' : './microphone.gif'} />

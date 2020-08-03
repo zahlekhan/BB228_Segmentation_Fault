@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react';
 import styled from 'styled-components';
 import { Icon } from 'react-icons-kit';
 import { mic } from 'react-icons-kit/icomoon/mic';
-import { Image, Button } from 'semantic-ui-react';
+import { Image, Button, Modal } from 'semantic-ui-react';
 
 import UserContext from '../contexts/UserContext.js';
 import RasaUtsAPI from '../utils/RasaUtsAPI.js';
@@ -15,15 +15,20 @@ const Uts = () => {
 	recognition.lang = language;
 
 	const [ isOpen, setIsOpen ] = useState(false);
-	const [ entity, setEntity ] = useState(null);
-	const [ intent, setIntent ] = useState(null);
+	const [ loading, setLoading ] = useState(false);
+	const [ number, setNumber ] = useState(null);
+	const [ trains, setTrains ] = useState(null);
+	const [ origin, setOrigin ] = useState(null);
+	const [ destination, setDestination ] = useState(null);
+	const [ via, setVia ] = useState(null);
 
 	const listenSpeech = () => {
-		setIsOpen(true);
+		setLoading(true);
 		recognition.start();
 	};
 
 	const stopListnening = () => {
+		setLoading(false);
 		recognition.stop();
 	};
 
@@ -37,38 +42,69 @@ const Uts = () => {
 		try {
 			const entityExtraction = await RasaUtsAPI.post('/', body);
 			console.log(entityExtraction);
-			setEntity(entityExtraction.data.entity[0].value);
-			setIntent(entityExtraction.data.intent.name);
+			const { trains, origin, destination, via, number } = entityExtraction.data;
+			setTrains(trains);
+			setOrigin(origin);
+			setDestination(destination);
+			setVia(via);
+			setNumber(number);
+			setIsOpen(true);
 		} catch (error) {
 			console.log(error);
 		}
-		console.log(entity);
+
 		stopListnening();
+		setLoading(false);
 		setIsOpen(false);
 	};
 
 	return (
-		<div>
-			<h1>Unreserved Ticketing system</h1>
-			<StyledButton
-				circular
-				style={{ padding: 0.5 + 'rem', background: '#fff' }}
-				type='submit'
-				onClick={() => {
-					listenSpeech();
-				}}
-			>
-				{' '}
-				<Icon size={40} icon={mic} />
-			</StyledButton>
-		</div>
+		<React.Fragment>
+			<div style={{textAlign:'center'}}>
+				<h1>Unreserved Ticketing system</h1>
+				<StyledButton
+					circular
+					style={{ padding: 0.5 + 'rem', background: '#fff' }}
+					type='submit'
+					onClick={() => {
+						listenSpeech();
+					}}
+				>
+					{' '}
+					<Icon size={40} icon={mic} />
+					<div>
+						{origin !== null && destination !== null && via !== null && trains !== null ? (
+							<div style={{fontSize:2+'rem', margin:1+'rem'}}>
+								Your {number} ticket from {origin} to {destination} via {via} is ready, are you sure you
+								want to book your ticket?
+								<Button style={{display:'block',textAlign:'center',margin:'auto',lineHeight:2+'rem'}} class="ui disabled button" disabled="" tabindex="-1">Book Now </Button>
+							</div>
+							
+						) : null}
+					</div>
+				</StyledButton>
+
+				<Modal
+					open={loading}
+					close={loading === false}
+					style={{
+						top: 'unset',
+						left: 'unset',
+						height: 'unset',
+						textAlign: 'center',
+					}}
+				>
+					<Modal.Header style={{}}>Loading</Modal.Header>
+					<Modal.Content image style={{ justifyContent: 'center' }}>
+						<Image wrapped size='medium' src='./microphone.gif' />
+					</Modal.Content>
+				</Modal>
+			</div>
+		</React.Fragment>
 	);
 };
 
 const StyledButton = styled(Button)`
-  position: absolute !important;
-  bottom: 2% !important;
-  right: 2% !important;
 `;
 
 export default Uts;
