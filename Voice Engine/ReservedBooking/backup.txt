@@ -1,0 +1,476 @@
+Are there train tickets originating from {orig} to {dest}
+Are there trains originating from {orig} to {dest}
+Which trains leaves {orig} to {dest} on {date}
+All trains on {date} originating from {orig} to {dest}
+Are there train tickets originating from {orig} to {dest} on {date}
+Are there train tickets  on {date} originating from {orig} to {dest}
+Are there trains originating from {orig} to {dest} on {date}
+Are there trains on {date} originating from {orig} to {dest}
+Are train tickets available originating from {orig} to {dest} on {date}
+Are trains available on {date}, originating from {orig} to {dest}
+Book a reservation for originating from {orig} to {dest} on {date}
+Book a train on {date}, originating from {orig} to {dest}
+Book train tickets on {date}, originating from {orig} to {dest}
+Book train tickets to travel originating from {orig} to {dest} on {date}
+Can you list all trains originating from {orig} to {dest} on {date}
+Can you tell me which train travels from {orig} to {dest} on {date}
+Check for trains originating from {orig} to {dest} on {date}
+Check train tickets originating from {orig} to {dest} on {date}
+Check trains on {date}, originating from {orig} to {dest}
+Do you have any trains that travels from {orig} to {dest} on {date}
+I need a train reservation originating from {orig} to {dest} on {date}
+I need a train reservation on {date}, originating from {orig} to {dest}
+I want train ticket to travel originating from {orig} to {dest} on {date}
+I want train reservation to travel originating from {orig} to {dest} on {date}
+I want tickets to travel originating from {orig} to {dest} on {date}
+I want train tickets on {date} to travel originating from {orig} to {dest}
+I want train reservation on {date} to travel originating from {orig} to {dest}
+I want tickets on {date} to travel originating from {orig} to {dest}
+I want to book {n} tickets to travel originating from {orig} to {dest} on {date}
+I want to book a train on {date}, originating from {orig} to {dest}
+I want to book a train originating from {orig} to {dest} on {date}.
+I want to book train tickets originating from {orig} to {dest} on {date}
+I want to travel originating from {orig} to {dest} on {date}
+I want to travel on {date} originating from {orig} to {dest}
+I want to travel to {dest} originating from {orig} on {date}
+I would like a reservation originating from {orig} to {dest} on {date}
+I would like a reservation on {date} originating from {orig} to {dest}
+I would like a train reservation originating from {orig} to {dest} on {date}
+I would like a train reservation on {date} originating from {orig} to {dest}
+I would like to book a train originating from {orig} to {dest} on {date}
+I would like to book a train on {date} originating from {orig} to {dest}
+List all trains originating from {orig} to {dest} on {date}
+List trains on {date}, originating from {orig} to {dest}.
+Please book train tickets originating from {orig} to {dest} on {date}
+Please check train tickets originating from {orig} to {dest} on {date}
+Please search for trains originating from {orig} to {dest} on {date}
+Please show me trains on {date} originating from {orig} to {dest}
+Please tell me which all trains travels from {orig} to {dest} on {date}
+Search for trains originating from {orig} to {dest} on {date}
+Search train reservations originating from {orig} to {dest} on {date}
+Search train reservations on {date}, originating from {orig} to {dest}
+Show me all trains originating from {orig} to {dest} on {date}
+Show me train reservations on {date}, originating from {orig} to {dest}
+Show me trains originating from {orig} to {dest} on {date}
+Show me trains on {date} originating from {orig} to {dest}
+Show me trains on {date}, originating from {orig} to {dest}
+Show me trains tickets on {date} originating from {orig} to {dest}
+Show train tickets for originating from {orig} to {dest} on {date}
+Show trains originating from {orig} to {dest} on {date}.
+Train reservation on {date}, originating from {orig} to {dest}
+Trains on {date} originating from {orig} to {dest}
+Which all trains go from {orig} to {dest} on {date}
+Which train has stops in {orig} and {dest}
+Which train serves {orig} and {dest} on {date}
+Which train travels from {orig} to {dest} on {date}
+Which trains travel originating from {orig} to {dest} on {date}
+May I book ticket originating from {orig} to {dest} on {date}
+On {date} I want to go from {org} to {dest}
+To {dest} can I book train originating from {org}
+To {dest} can I book train tickets originating from {org}
+To {dest} can I book reservation originating from {org}
+To {dest} can I book train reservation originating from {org}
+Going to {dest} can I book train originating from {org}
+Going to {dest} can I book train tickets originating from {org}
+Going to {dest} can I book reservation originating from {org}
+Going to {dest} can I book train reservation originating from {org}
+Show all the trains originating from {org} to {dest} on {date}
+Show trains to {dest} originating from {org}
+Show trains going to {dest} originating from {org}
+Show trains to {dest} originating from {org} on {date}
+Can you please show trains going to {dest} originating from {org}
+Can you show all trains originating from {org} to {dest}
+Can you show all trains originating from {org} to {dest} on {date}
+Can you please show trains going to {dest} originating from {org} on {date}
+Can you show trains going to {dest} originating from {org}
+Can you show trains going to {dest} originating from {org} on {date}
+Are train tickets available originating from {orig} to {dest}
+Are train tickets available , originating from {orig} to {dest}
+Are trains available , originating from {orig} to {dest}
+Book a reservation , originating from {orig} to {dest}
+Book a reservation for originating from {orig} to {dest}
+Book a train , originating from {orig} to {dest}
+Book train tickets , originating from {orig} to {dest}
+Book train tickets to travel originating from {orig} to {dest} 
+Can you list all trains originating from {orig} to {dest}
+Can you tell me which train travels from {orig} to {dest}
+Check for trains originating from {orig} to {dest}
+Check train tickets originating from {orig} to {dest}
+Check trains , originating from {orig} to {dest}
+Do you have any trains that travels from {orig} to {dest}
+I need a train reservation originating from {orig} to {dest}
+I need a train reservation , originating from {orig} to {dest}
+I want train ticket to travel originating from {orig} to {dest}
+I want train reservation to travel originating from {orig} to {dest}
+I want tickets to travel originating from {orig} to {dest}
+I want train tickets  to travel originating from {orig} to {dest}
+I want train reservation  to travel originating from {orig} to {dest}
+I want tickets  to travel originating from {orig} to {dest}
+I want to book {n} tickets to travel originating from {orig} to {dest}
+I want to book a train , originating from {orig} to {dest}
+I want to book a train originating from {orig} to {dest} .
+I want to book train tickets originating from {orig} to {dest}
+I want to travel originating from {orig} to {dest}
+I want to travel  originating from {orig} to {dest}
+I want to travel to {dest} originating from {orig}
+I would like a reservation originating from {orig} to {dest}
+I would like a reservation  originating from {orig} to {dest}
+I would like a train reservation originating from {orig} to {dest}
+I would like a train reservation  originating from {orig} to {dest}
+I would like to book a train originating from {orig} to {dest}
+I would like to book a train  originating from {orig} to {dest}
+List all trains originating from {orig} to {dest}
+List trains , originating from {orig} to {dest}.
+Please book train tickets originating from {orig} to {dest}
+Please check train tickets originating from {orig} to {dest}
+Please search for trains originating from {orig} to {dest}
+Please show me trains  originating from {orig} to {dest}
+Please tell me which all trains travels from {orig} to {dest}
+Search for trains originating from {orig} to {dest}
+Search train reservations originating from {orig} to {dest}
+Search train reservations , originating from {orig} to {dest}
+Show me all trains originating from {orig} to {dest}
+Show me train reservations , originating from {orig} to {dest}
+Show me trains originating from {orig} to {dest}
+Show me trains  originating from {orig} to {dest}
+Show me trains , originating from {orig} to {dest}
+Show me trains tickets  originating from {orig} to {dest}
+Show train tickets for originating from {orig} to {dest} .
+Show trains originating from {orig} to {dest} .
+Train reservation , originating from {orig} to {dest}
+Trains  originating from {orig} to {dest}
+Which all trains go from {orig} to {dest}
+Which train serves {orig} and {dest}
+Which train travels from {orig} to {dest}
+All trains travelling from {orig} to {dest} on {date}
+All trains travelling from {orig} to {dest}
+All trains on {date} travelling from {orig} to {dest}
+Are there train tickets from {orig} to {dest}
+Are there trains from {orig} to {dest}
+Are there trainsfrom {orig} to {dest}
+Are there trains running from {orig} to {dest}
+Are there train tickets from {orig} to {dest} on {date}
+Are there train tickets  on {date} from {orig} to {dest}
+Are there trains from {orig} to {dest} on {date}
+Are there trains on {date} from {orig} to {dest}
+Are there trains running from {orig} to {dest} on {date}
+Are train tickets available from {orig} to {dest} on {date}
+Are train tickets available on {date}, travelling from {orig} to {dest}
+Are trains available on {date}, travelling from {orig} to {dest}
+Book a reservation on {date}, travelling from {orig} to {dest}
+Book a reservation for travelling from {orig} to {dest} on {date}
+Book a train on {date}, travelling from {orig} to {dest}
+Book train tickets on {date}, travelling from {orig} to {dest}
+Book train tickets to travel from {orig} to {dest} on {date}.
+Can you list all trains from {orig} to {dest} on {date}
+Check for trains travelling from {orig} to {dest} on {date}
+Check train tickets from {orig} to {dest} on {date}
+Check trains on {date}, travelling from {orig} to {dest}
+I need a train reservation from {orig} to {dest} on {date}
+I need a train reservation on {date}, from {orig} to {dest}
+I want train ticket to travel from {orig} to {dest} on {date}
+I want train reservation to travel from {orig} to {dest} on {date}
+I want tickets to travel from {orig} to {dest} on {date}
+I want train tickets on {date} to travel from {orig} to {dest}
+I want train reservation on {date} to travel from {orig} to {dest}
+I want tickets on {date} to travel from {orig} to {dest}
+I want to book {n} tickets to travel from {orig} to {dest} on {date}
+I want to book a train on {date}, travelling from {orig} to {dest}
+I want to book a train travelling from {orig} to {dest} on {date}.
+I want to book train tickets from {orig} to {dest} on {date}
+I want to travel from {orig} to {dest} on {date}
+I want to travel on {date} from {orig} to {dest}
+I want to travel to {dest} from {orig} on {date}
+I would like a reservation from {orig} to {dest} on {date}
+I would like a reservation on {date} from {orig} to {dest}
+I would like a train reservation from {orig} to {dest} on {date}
+I would like a train reservation on {date} from {orig} to {dest}
+I would like to book a train from {orig} to {dest} on {date}
+I would like to book a train on {date} from {orig} to {dest}
+List all trains from {orig} to {dest} on {date}
+List trains on {date}, travelling from {orig} to {dest}.
+Please book train tickets from {orig} to {dest} on {date}
+Please check train tickets from {orig} to {dest} on {date}
+Please search for trains from {orig} to {dest} on {date}
+Please show me trains on {date} travelling from {orig} to {dest}
+Search for trains from {orig} to {dest} on {date}
+Search train reservations from {orig} to {dest} on {date}
+Search train reservations on {date}, from {orig} to {dest}
+Show me all trains from {orig} to {dest} on {date}
+Show me train reservations on {date}, from {orig} to {dest}
+Show me trains from {orig} to {dest} on {date}
+Show me trains on {date} travelling from {orig} to {dest}
+Show me trains on {date}, travelling from {orig} to {dest}
+Show me trains tickets on {date} travelling from {orig} to {dest}
+Show train tickets for travelling from {orig} to {dest} on {date}
+Show trains travelling from {orig} to {dest} on {date}.
+Train reservation on {date}, travelling from {orig} to {dest}
+Trains on {date} travelling from {orig} to {dest}
+Which trains travel from {orig} to {dest} on {date}
+May I book ticket from {orig} to {dest} on {date}
+To {dest} can I book train from {org}
+To {dest} can I book train tickets from {org}
+To {dest} can I book reservation from {org}
+To {dest} can I book train reservation from {org}
+Going to {dest} can I book train from {org}
+Going to {dest} can I book train tickets from {org}
+Going to {dest} can I book reservation from {org}
+Going to {dest} can I book train reservation from {org}
+Show all the trains from {org} to {dest} on {date}
+Show trains to {dest} from {org}
+Show trains going to {dest} from {org}
+Show trains to {dest} from {org} on {date}
+Can you please show trains going to {dest} from {org}
+Can you show all trains from {org} to {dest}
+Can you show all trains from {org} to {dest} on {date}
+Can you please show trains going to {dest} from {org} on {date}
+Can you show trains going to {dest} from {org}
+Can you show trains going to {dest} from {org} on {date}
+Are train tickets available from {orig} to {dest}
+Are train tickets available , travelling from {orig} to {dest}
+Are trains available , travelling from {orig} to {dest}
+Book a reservation , travelling from {orig} to {dest}
+Book a reservation for travelling from {orig} to {dest}
+Book a train , travelling from {orig} to {dest}
+Book train tickets , travelling from {orig} to {dest}
+Book train tickets to travel from {orig} to {dest} .
+Can you list all trains from {orig} to {dest}
+Check for trains travelling from {orig} to {dest}
+Check train tickets from {orig} to {dest}
+Check trains , travelling from {orig} to {dest}
+I need a train reservation from {orig} to {dest}
+I need a train reservation , from {orig} to {dest}
+I want train ticket to travel from {orig} to {dest}
+I want train reservation to travel from {orig} to {dest}
+I want tickets to travel from {orig} to {dest}
+I want train tickets  to travel from {orig} to {dest}
+I want train reservation  to travel from {orig} to {dest}
+I want tickets  to travel from {orig} to {dest}
+I want to book {n} tickets to travel from {orig} to {dest}
+I want to book a train , travelling from {orig} to {dest}
+I want to book a train travelling from {orig} to {dest}
+I want to book train tickets from {orig} to {dest}
+I want to travel from {orig} to {dest}
+I want to travel  from {orig} to {dest}
+I want to travel to {dest} from {orig}
+I would like a reservation from {orig} to {dest}
+I would like a reservation  from {orig} to {dest}
+I would like a train reservation from {orig} to {dest}
+I would like a train reservation  from {orig} to {dest}
+I would like to book a train from {orig} to {dest}
+I would like to book a train  from {orig} to {dest}
+List all trains from {orig} to {dest}
+List trains , travelling from {orig} to {dest}.
+Please book train tickets from {orig} to {dest}
+Please check train tickets from {orig} to {dest}
+Please search for trains from {orig} to {dest}
+Please show me trains  travelling from {orig} to {dest}
+Search for trains from {orig} to {dest}
+Search train reservations from {orig} to {dest}
+Search train reservations , from {orig} to {dest}
+Show me all trains from {orig} to {dest}
+Show me train reservations , from {orig} to {dest}
+Show me trains from {orig} to {dest}
+Show me trains  travelling from {orig} to {dest}
+Show me trains , travelling from {orig} to {dest}
+Show me trains tickets  travelling from {orig} to {dest}
+Show train tickets for travelling from {orig} to {dest} .
+Show trains travelling from {orig} to {dest} .
+Train reservation , travelling from {orig} to {dest}
+Trains  travelling from {orig} to {dest}
+Show me info about the trains from {org} to {dest}
+Show me information about the trains from {org} to {dest}
+Show me info about the trains originating from {org} to {dest}
+Show me information about the originating trains from {org} to {dest}
+What are the availble trains from {org} to {dest}
+What are the availble train options from {org} to {dest}
+What are the availble trains originating from {org} to {dest}
+What are the availble train options originating from {org} to {dest}
+What are the availble trains from {org} to {dest} on {date}
+What are the availble train options from {org} to {dest}  on {date}
+What are the availble trains originating from {org} to {dest}  on {date}
+What are the availble train options originating from {org} to {dest}  on {date}
+on {date} What are the availble trains from {org} to {dest}
+on {date} What are the availble train options from {org} to {dest}
+on {date} What are the availble trains originating from {org} to {dest}
+on {date} What are the availble train options originating from {org} to {dest}
+What are the trains from {org} to {dest}
+What are the train options from {org} to {dest}
+What are the trains originating from {org} to {dest}
+What are the train options originating from {org} to {dest}
+What are the trains from {org} to {dest} on {date}
+What are the train options from {org} to {dest} on {date}
+What are the trains originating from {org} to {dest} on {date}
+What are the train options originating from {org} to {dest} on {date}
+on {date} What are the trains from {org} to {dest}
+on {date} What are the train options from {org} to {dest}
+on {date} What are the trains originating from {org} to {dest}
+on {date} What are the train options originating from {org} to {dest}
+Give me info about trains from {org} to {dest}
+Give me info about train options from {org} to {dest}
+Give me info about trains originating from {org} to {dest}
+Give me info about train options originating from {org} to {dest}
+Give me info about trains from {org} to {dest} on {date}
+Give me info about train options from {org} to {dest}  on {date}
+Give me info about trains originating from {org} to {dest}  on {date}
+Give me information about trains from {org} to {dest}
+Give me information about train options from {org} to {dest}
+Give me information about trains originating from {org} to {dest}
+Give me information about train options originating from {org} to {dest}
+Give me information about trains from {org} to {dest} on {date}
+Give me information about train options from {org} to {dest}  on {date}
+Give me information about trains originating from {org} to {dest}  on {date}
+Tell me about the trains from {org} to {dest}
+tell me about trains from {org} to {dest}
+tell me about train options from {org} to {dest}
+tell me about trains originating from {org} to {dest}
+tell me about train options originating from {org} to {dest}
+tell me about trains from {org} to {dest} on {date}
+tell me about train options from {org} to {dest}  on {date}
+tell me about trains originating from {org} to {dest}  on {date}
+tell me about train options originating from {org} to {dest}  on {date}
+on {date} tell me about trains from {org} to {dest}
+on {date} tell me about train options from {org} to {dest}
+on {date} tell me about trains originating from {org} to {dest}
+on {date} tell me about train options originating from {org} to {dest}
+Get all the info about trains from {org} to {dest}
+Get all the info about train options from {org} to {dest}
+Get all the info about trains originating from {org} to {dest}
+Get all the info about train options originating from {org} to {dest}
+Get all the info about trains from {org} to {dest} on {date}
+Get all the info about train options from {org} to {dest} on {date}
+Get all the info about trains originating from {org} to {dest} on {date}
+Get all the information about trains from {org} to {dest}
+Get all the information about train options from {org} to {dest}
+Get all the information about trains originating from {org} to {dest}
+Get all the information about train options originating from {org} to {dest}
+Get all the information about trains from {org} to {dest} on {date}
+Get all the information about train options from {org} to {dest} on {date}
+Get all the information about trains originating from {org} to {dest} on {date}
+Show me data about the trains from {org} to {dest}
+Show me data about the originating trains from {org} to {dest}
+Give me data trains from {org} to {dest}
+Give me data train options from {org} to {dest}
+Give me data trains originating from {org} to {dest}
+Give me data train options originating from {org} to {dest}
+Give me data trains from {org} to {dest} on {date}
+Give me data train options from {org} to {dest}  on {date}
+Give me data trains originating from {org} to {dest}  on {date}
+Get all the data trains from {org} to {dest}
+Get all the data train options from {org} to {dest}
+Get all the data trains originating from {org} to {dest}
+Get all the data train options originating from {org} to {dest}
+Get all the data trains from {org} to {dest} on {date}
+Get all the data train options from {org} to {dest} on {date}
+Get all the data trains originating from {org} to {dest} on {date}
+Show me details about the trains from {org} to {dest}
+Show me details about the originating trains from {org} to {dest}
+Give me details about trains from {org} to {dest}
+Give me details about train options from {org} to {dest}
+Give me details about trains originating from {org} to {dest}
+Give me details about train options originating from {org} to {dest}
+Give me details about trains from {org} to {dest} on {date}
+Give me details about train options from {org} to {dest}  on {date}
+Give me details about trains originating from {org} to {dest}  on {date}
+Get all the details about trains from {org} to {dest}
+Get all the details about train options from {org} to {dest}
+Get all the details about trains originating from {org} to {dest}
+Get all the details about train options originating from {org} to {dest}
+Get all the details about trains from {org} to {dest} on {date}
+Get all the details about train options from {org} to {dest} on {date}
+Get all the details about trains originating from {org} to {dest} on {date}
+Give me information of trains from {org} to {dest}
+Give me information of train options from {org} to {dest}
+Give me information of trains originating from {org} to {dest}
+Give me information of train options originating from {org} to {dest}
+Give me information of trains from {org} to {dest} on {date}
+Give me information of train options from {org} to {dest}  on {date}
+Give me information of trains originating from {org} to {dest}  on {date}
+Get all the information of trains from {org} to {dest}
+Get all the information of train options from {org} to {dest}
+Get all the information of trains originating from {org} to {dest}
+Get all the information of train options originating from {org} to {dest}
+Get all the information of trains from {org} to {dest} on {date}
+Get all the information of train options from {org} to {dest} on {date}
+Get all the information of trains originating from {org} to {dest} on {date}
+can I get all the information of trains from {org} to {dest}
+can I get all the information of train options from {org} to {dest}
+can I get all the information of trains originating from {org} to {dest}
+can I get all the information of train options originating from {org} to {dest}
+can I get all the information of trains from {org} to {dest} on {date}
+can I get all the information of train options from {org} to {dest} on {date}
+can I get all the information of trains originating from {org} to {dest} on {date}
+can I get all the details about trains from {org} to {dest}
+can I get all the details about train options from {org} to {dest}
+can I get all the details about trains originating from {org} to {dest}
+can I get all the details about train options originating from {org} to {dest}
+can I get all the details about trains from {org} to {dest} on {date}
+can I get all the details about train options from {org} to {dest} on {date}
+can I get all the details about trains originating from {org} to {dest} on {date}
+can I get all the data trains from {org} to {dest}
+can I get all the data train options from {org} to {dest}
+can I get all the data trains originating from {org} to {dest}
+can I get all the data train options originating from {org} to {dest}
+can I get all the data trains from {org} to {dest} on {date}
+can I get all the data train options from {org} to {dest} on {date}
+can I get all the data trains originating from {org} to {dest} on {date}
+can I get all the info about trains from {org} to {dest}
+can I get all the info about train options from {org} to {dest}
+can I get all the info about trains originating from {org} to {dest}
+can I get all the info about train options originating from {org} to {dest}
+can I get all the info about trains from {org} to {dest} on {date}
+can I get all the info about train options from {org} to {dest} on {date}
+can I get all the info about trains originating from {org} to {dest} on {date}
+can I get all the information about trains from {org} to {dest}
+can I get all the information about train options from {org} to {dest}
+can I get all the information about trains originating from {org} to {dest}
+can I get all the information about train options originating from {org} to {dest}
+can I get all the information about trains from {org} to {dest} on {date}
+can I get all the information about train options from {org} to {dest} on {date}
+can I get all the information about trains originating from {org} to {dest} on {date}
+want train ticket to travel originating from {orig} to {dest}
+I want to go from {org} to {dest}
+I want to go from {org} to {dest}
+I want to go from {org} to {dest} on {date}
+I want to from {org} to {dest} on {date}
+want train reservation to travel originating from {orig} to {dest}
+want tickets to travel originating from {orig} to {dest}
+want train tickets  to travel originating from {orig} to {dest}
+want train reservation  to travel originating from {orig} to {dest}
+want tickets  to travel originating from {orig} to {dest}
+want to book {n} tickets to travel originating from {orig} to {dest}
+want to book a train , originating from {orig} to {dest}
+want to book a train originating from {orig} to {dest}
+want to book train tickets originating from {orig} to {dest}
+want to travel originating from {orig} to {dest}
+want to travel  originating from {orig} to {dest}
+want train ticket to travel originating from {orig} to {dest} on {date}
+want train reservation to travel originating from {orig} to {dest} on {date}
+want tickets to travel originating from {orig} to {dest} on {date}
+want train tickets on {date} to travel originating from {orig} to {dest}
+want train reservation on {date} to travel originating from {orig} to {dest}
+want tickets on {date} to travel originating from {orig} to {dest}
+want to book {n} tickets to travel originating from {orig} to {dest} on {date}
+want to book a train on {date}, originating from {orig} to {dest}
+want to book a train originating from {orig} to {dest} on {date}.
+want to book train tickets originating from {orig} to {dest} on {date}
+want to travel originating from {orig} to {dest} on {date}
+want to travel on {date} originating from {orig} to {dest}
+want to travel to {dest} originating from {orig} on {date}
+book train from {orig} to {dest}
+book train from {orig} to {dest} on {date}
+I want to book a ticket to {orig} on {dest} on {date}
+I want to book a ticket to {orig} on {dest}
+show me train from {orig} to {dest}
+show me train from {orig} to {dest} on {date}
+I have to get {dest} from {orig} on {date}
+I have to get {dest} from {orig}
+I want to ticket from {orig} to {dest}
+I want to ticket from {orig} to {dest} on {date}
+I want to know trains between {orig} and {dest} on {date}
+I want to know trains between {orig} and {dest}
+I want to travel between {orig} and {dest}
+I want to travel between {orig} and {dest} on {date}
+I want to book train tickets between {orig} and {dest}
+I want to travel tickets of train {orig} and {dest}
+I want to travel tickets of train {orig} and {dest} on {date}

@@ -1,0 +1,53 @@
+Can you tell me status of {pnr}
+Can you please tell me status of {pnr}
+What happened to me ticket of {pnr}
+Tell me about {pnr}
+Is my ticket confirmed of {pnr}
+Can you tell me status of pnr {pnr}
+Can you please tell me status of pnr {pnr}
+What happened to me ticket of pnr {pnr}
+Tell me about {pnr}
+Is my ticket confirmed of pnr{pnr}
+Is my ticket confirmed or not of pnr {pnr}
+What happened to my ticket pnr {pnr}
+Can you tell me status of pnr number {pnr}
+Can you please tell me status of pnr number {pnr}
+What happened to me ticket of pnr number {pnr}
+Tell me about {pnr}
+Is my ticket confirmed of pnr{pnr}
+Is my ticket confirmed or not of pnr number {pnr}
+What happened to my ticket pnr number {pnr}
+What about pnr {pnr}
+What about {pnr}
+What happened to my ticket {pnr}
+my pnr is {pnr} can you tell me its status
+my pnr number is {pnr} can you tell me its status
+my pnr number is {pnr} is this ticket confirmed
+my pnr number is {pnr} what is the status
+my pnr number is {pnr} what happened
+my pnr number is {pnr} what happened to it
+let me know the pnr status of {pnr}
+i want to know the status of pnr {pnr}
+help me in getting the status of my pnr number {pnr}
+help me in getting the status of pnr number {pnr}
+i wish to know about the status of pnr number {pnr}
+i wish to know what happened to pnr number {pnr}
+i wish to know if my ticket is confirmed or not of pnr {pnr}
+i wish to know if my ticket is confirmed or not of pnr number {pnr}
+hey tell me about the status of pnr number {pnr}
+let me know the status of pnr number {pnr}
+let me know the status of pnr {pnr}
+i booked a ticket having pnr number {pnr} can you tell me its status
+can you help me with status of pnr number {pnr}
+i wanted to know about the status of pnr number {pnr}
+how can i know the status of pnr number {pnr}
+tell me about pnr status {pnr}
+give me the pnr status information of the {pnr}
+let me know the pnr status of pnr {pnr}
+can you tell me pnr status of {pnr}
+can you please tell me pnr status of {pnr}
+pnr status of {pnr}
+pnr status of pnr number {pnr}
+i am having ticket can you tell me its pnr status of {pnr}
+tell me about pnr status of pnr number {pnr}
+tell me about pnr status of ticket having pnr number {pnr}

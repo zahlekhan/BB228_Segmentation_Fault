@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ujjwal/Desktop/SIH_Rasa/UTS/./models/default/model_20200803-023832/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/ujjwal/Desktop/SIH_Rasa/UTS/./models/default/model_20200803-023832/intent_classifier_tensorflow_embedding.ckpt"

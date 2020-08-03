@@ -1,0 +1,249 @@
+[33mcommit 752e7dadc3686d8f9dbf0f5ad0591c3898851b53[m[33m ([m[1;36mHEAD -> [m[1;32mnewBG[m[33m)[m
+Author: Zahle Khan <zahlekhaned@gmail.com>
+Date:   Sat Aug 1 17:11:56 2020 +0530
+
+    sda
+
+[33mcommit d72a3fac6d74213cb290b563895eaa13c830ddd7[m
+Author: Zahle Khan <zahlekhaned@gmail.com>
+Date:   Sat Aug 1 13:09:09 2020 +0530
+
+    new BG
+
+[33mcommit 46763ec494d88eea629e63c4584514c283939768[m[33m ([m[1;31morigin/user-form[m[33m, [m[1;31morigin/newBG[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32muser-form[m[33m)[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri Jul 31 15:39:40 2020 +0530
+
+    recent push
+
+[33mcommit 6dd5a171afd956bd4e9b72e348e33619a59cfb11[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Wed Jul 29 01:32:03 2020 +0530
+
+    listening modal added
+
+[33mcommit 5abe3e9521bf68afbf328b14635dd2a7c688ea2e[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Sat Jul 25 12:32:56 2020 +0530
+
+    logger attached
+
+[33mcommit 900fcba379a8332c31a655413d09dc103ea35d6d[m
+Merge: 9b19d14 34467fb
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Thu Jul 23 19:54:41 2020 +0530
+
+    resposnive ui
+
+[33mcommit 9b19d14acb4b794c898a3fc7b78721fdd621adad[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Thu Jul 23 19:49:22 2020 +0530
+
+    local changes merge
+
+[33mcommit 34467fb28653086608bd875e14a4a8ef33e61bcc[m
+Merge: 113e0c2 9abfcad
+Author: Shubham Kumar Ojha <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Thu Jul 23 19:48:20 2020 +0530
+
+    Merge pull request #4 from shubhamiitbhu/responsiveUI
+    
+    Responsive ui
+
+[33mcommit 9abfcadb579043c3f20913d745dcb33cc1c54d3b[m[33m ([m[1;31morigin/responsiveUI[m[33m)[m
+Author: Zahle Khan <zahlekhaned@gmail.com>
+Date:   Thu Jul 23 17:47:43 2020 +0530
+
+    Added loading animation modal and userform shadow
+
+[33mcommit f0885f2d682899b2e8530ac24077357de77c75be[m
+Author: Zahle Khan <zahlekhaned@gmail.com>
+Date:   Thu Jul 23 15:48:36 2020 +0530
+
+    Added image on userform
+
+[33mcommit c330f47d9cf35988800d31a79f07aae705c3bb48[m
+Author: Zahle Khan <zahlekhaned@gmail.com>
+Date:   Wed Jul 22 23:06:53 2020 +0530
+
+    Responsive Journey Cards
+
+[33mcommit 113e0c2b66da6c7172c067710a7e74e56a6717d0[m
+Merge: 79edda9 a870cb4
+Author: Shubham Kumar Ojha <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Wed Jul 22 20:42:56 2020 +0530
+
+    Merge pull request #3 from shubhamiitbhu/feature-r-bot
+    
+    merge resolved
+
+[33mcommit a870cb4ff2c494a36437f745a7120da27598dfb8[m[33m ([m[1;31morigin/feature-r-bot[m[33m)[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Wed Jul 22 20:41:23 2020 +0530
+
+    merge resolved
+
+[33mcommit 79edda956201ea97e3fc832ac92bb41d6332a56f[m
+Merge: 98e44b1 ec65adf
+Author: Shubham Kumar Ojha <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Wed Jul 22 20:36:22 2020 +0530
+
+    Merge pull request #2 from shubhamiitbhu/feature-r-bot
+    
+    bot detection
+
+[33mcommit ec65adfdcf85352c29923928030f29e126c6321f[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Wed Jul 22 20:35:58 2020 +0530
+
+    merge conflicts resolved
+
+[33mcommit 687ef967a852e9bae9837ca16e80449909877b26[m
+Merge: fb9b93b 34a8fdf
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Wed Jul 22 20:32:14 2020 +0530
+
+    merge conflicts resolved
+
+[33mcommit 34a8fdff58101422b77cd0b65e4e677066643422[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Wed Jul 22 20:30:11 2020 +0530
+
+    merge conflicts
+
+[33mcommit 98e44b18d3e12004a9cd4327fc6dda1d444859ea[m
+Author: Zahle Khan <zahlekhaned@gmail.com>
+Date:   Wed Jul 22 03:50:59 2020 +0530
+
+    Responsive Navbar
+
+[33mcommit cef5c65a1fd3beaadd7ed2ae014c042af065b6d5[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Tue Jul 21 23:36:17 2020 +0530
+
+    json fix
+
+[33mcommit 08fd09bccde51fa1d6ec3552fd01fc5f2fd37297[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Mon Jul 20 15:42:14 2020 +0530
+
+    insecure connection request workaround
+
+[33mcommit 9a11b11dffd68634bed1a376b2c7dfbe3e7790a8[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Mon Jul 20 03:24:33 2020 +0530
+
+    RASA API added
+
+[33mcommit eebc7803e33150aef4832de04da8f768de55af5f[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Mon Jul 20 02:11:08 2020 +0530
+
+    voice added
+
+[33mcommit 8f6def98e90aa039df4f0574a31a993e2753ba6b[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Mon Jul 20 02:00:37 2020 +0530
+
+    voice added
+
+[33mcommit dd3b494c60f3df4a0c3d7974cdeeaf6bb9471a49[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Sun Jul 12 02:42:18 2020 +0530
+
+    basic ui done
+
+[33mcommit fb9b93b8bb52640599acff4b83249447b08c39b0[m
+Author: TANUJ DWIVEDI <tanuj.dwivedi.civ16@itbhu.ac.in>
+Date:   Wed Jul 8 13:38:03 2020 +0530
+
+    bot detection
+
+[33mcommit 6f9ab18b0e68a9744298ca72d516dc8b474fb964[m
+Merge: 009daa0 2aabe4a
+Author: Shubham Kumar Ojha <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri May 8 22:25:25 2020 +0530
+
+    Merge pull request #1 from shubhamiitbhu/add-license-1
+    
+    Create LICENSE
+
+[33mcommit 2aabe4af366adc16d2d24a820cf7dddf0d89721b[m[33m ([m[1;31morigin/add-license-1[m[33m)[m
+Author: Shubham Kumar Ojha <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri May 8 22:25:13 2020 +0530
+
+    Create LICENSE
+
+[33mcommit 009daa0f03e4ec8c93184acc7d85e7eef037b6dd[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Sat Apr 11 15:02:49 2020 +0530
+
+    Loader added
+
+[33mcommit cf297afaafdabacd91ffc337c2c25a41928887dd[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri Apr 10 16:27:25 2020 +0530
+
+    Calender added
+
+[33mcommit 90b2b385e73cffb4f73d3936c680a2c82b0053de[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Sat Mar 21 14:00:14 2020 +0530
+
+    train name bug fixed
+
+[33mcommit 4152ccd28859c596264e066fa48e8fda37458ff0[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Sat Mar 21 13:43:49 2020 +0530
+
+    sync with api
+
+[33mcommit 046193f65ec681c6c7ea570ab7ce4ccb0e05a25d[m
+Merge: 5097a9f 2e00425
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri Mar 20 23:45:04 2020 +0530
+
+    toast added
+
+[33mcommit 5097a9f9554b7e04b28d85a59175b9c65b4b52e9[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri Mar 20 23:44:11 2020 +0530
+
+    toaster added
+
+[33mcommit 2e0042575a16dcf4791e1e4f8b1d727c630c35e1[m
+Author: Shubham Kumar Ojha <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri Mar 20 04:40:08 2020 +0530
+
+    Update README.md
+
+[33mcommit d654d5ee63fec145e04340429e18b2999fe2459e[m
+Merge: fec6366 450f9ac
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri Mar 20 04:36:35 2020 +0530
+
+    axios working
+
+[33mcommit fec63663fb2e2fffddedb67058baf398ae7d7ae9[m
+Author: shubhamiitbhu <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Fri Mar 20 04:35:12 2020 +0530
+
+    basic codes ready
+
+[33mcommit 450f9acee56d837ce927450032efeedacf345a0f[m
+Author: Shubham Kumar Ojha <shubhamk.ojha.civ16@iitbhu.ac.in>
+Date:   Tue Mar 17 14:39:08 2020 +0530
+
+    Update README.md
+
+[33mcommit be06a405662911888325dbf18a44ab1f49faab8e[m
+Author: Shubham Kumar Ojha <shubhamkojha@Shubhams-MacBook-Pro.local>
+Date:   Wed Feb 5 10:12:30 2020 +0530
+
+    basci user form completed, axios working
+
+[33mcommit df302eafa013edc2370a1a557c59e290309a71f1[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Shubham Kumar Ojha <shubhamkojha@Shubhams-MacBook-Pro.local>
+Date:   Wed Feb 5 10:10:38 2020 +0530
+
+    basci user form completed

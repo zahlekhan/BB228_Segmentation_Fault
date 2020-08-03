@@ -1,0 +1,262 @@
+i want to book {n} tickets from {orig} to {dest}
+i want to buy {n} tickets from {orig} to {dest}
+can you give me {n} tickets from {orig} to {dest}
+can you please give me {n} tickets from {orig} to {dest}
+buy me {n} tickets from {orig} to {dest}
+give me {n} tickets from {orig} to {dest}
+give me {n} tickets for journey between {orig} and {dest}
+buy me {n} tickets for journey between {orig} and {dest}
+can i get {n} tickets from {orig} to {dest}
+from {orig} to {dest} i want to buy {n} tickets
+{n} tickets from {orig} to {dest}
+from {orig} to {dest} {n} tickets 
+i wish to buy {n} tickets from {orig} to {dest}
+may i get {n} tickets from {orig} to {dest}
+can you buy me {n} tickets from {orig} to {dest}
+i want to make {n} unreserved bookings from {orig} to {dest}
+hey can i get {n} bookings from {orig} to {dest}
+book me {n} tickets from {orig} to {dest}
+get me {n} tickets from {orig} to {dest}
+i wish to get {n} tickets from {orig} to {dest}
+will you please give me {n} tickets from {orig} to {dest}
+i want to buy {n} tickets running between {orig} and {dest}
+i want to buy {n} tickets of train originating from {orig} to {dest}
+i want to buy {n} tickets of trains originating from {orig} to {dest}
+i want to book {n} unreserved bookings from {orig} to {dest}
+i want to buy {n} unreserved bookings from {orig} to {dest}
+can you give me {n} unreserved bookings from {orig} to {dest}
+can you please give me {n} unreserved bookings from {orig} to {dest}
+buy me {n} unreserved bookings from {orig} to {dest}
+give me {n} unreserved bookings from {orig} to {dest}
+give me {n} unreserved bookings for journey between {orig} and {dest}
+buy me {n} unreserved bookings for journey between {orig} and {dest}
+can i get {n} unreserved bookings from {orig} to {dest}
+from {orig} to {dest} i want to buy {n} unreserved bookings
+{n} unreserved bookings from {orig} to {dest}
+from {orig} to {dest} {n} unreserved bookings 
+i wish to buy {n} unreserved bookings from {orig} to {dest}
+may i get {n} unreserved bookings from {orig} to {dest}
+can you buy me {n} unreserved bookings from {orig} to {dest}
+book me {n} unreserved bookings from {orig} to {dest}
+get me {n} unreserved bookings from {orig} to {dest}
+i wish to get {n} unreserved bookings from {orig} to {dest}
+will you please give me {n} unreserved bookings from {orig} to {dest}
+i want to buy {n} unreserved bookings running between {orig} and {dest}
+i want to buy {n} unreserved bookings of train originating from {orig} to {dest}
+i want to buy {n} unreserved bookings of trains originating from {orig} to {dest}
+i want to book {n} ticket from {orig} to {dest}
+i want to buy {n} ticket from {orig} to {dest}
+can you give me {n} ticket from {orig} to {dest}
+can you please give me {n} ticket from {orig} to {dest}
+buy me {n} ticket from {orig} to {dest}
+give me {n} ticket from {orig} to {dest}
+give me {n} ticket for journey between {orig} and {dest}
+buy me {n} ticket for journey between {orig} and {dest}
+can i get {n} ticket from {orig} to {dest}
+from {orig} to {dest} i want to buy {n} ticket
+{n} ticket from {orig} to {dest}
+from {orig} to {dest} {n} ticket 
+i wish to buy {n} ticket from {orig} to {dest}
+may i get {n} ticket from {orig} to {dest}
+can you buy me {n} ticket from {orig} to {dest}
+i want to make {n} unreserved booking from {orig} to {dest}
+hey can i get {n} booking from {orig} to {dest}
+book me {n} ticket from {orig} to {dest}
+get me {n} ticket from {orig} to {dest}
+i wish to get {n} ticket from {orig} to {dest}
+will you please give me {n} ticket from {orig} to {dest}
+i want to buy {n} ticket running between {orig} and {dest}
+i want to buy {n} ticket of train originating from {orig} to {dest}
+i want to buy {n} ticket of trains originating from {orig} to {dest}
+i want to book {n} unreserved booking from {orig} to {dest}
+i want to buy {n} unreserved booking from {orig} to {dest}
+can you give me {n} unreserved booking from {orig} to {dest}
+can you please give me {n} unreserved booking from {orig} to {dest}
+buy me {n} unreserved booking from {orig} to {dest}
+give me {n} unreserved booking from {orig} to {dest}
+give me {n} unreserved booking for journey between {orig} and {dest}
+buy me {n} unreserved booking for journey between {orig} and {dest}
+can i get {n} unreserved booking from {orig} to {dest}
+from {orig} to {dest} i want to buy {n} unreserved booking
+{n} unreserved booking from {orig} to {dest}
+from {orig} to {dest} {n} unreserved booking 
+i wish to buy {n} unreserved booking from {orig} to {dest}
+may i get {n} unreserved booking from {orig} to {dest}
+can you buy me {n} unreserved booking from {orig} to {dest}
+book me {n} unreserved booking from {orig} to {dest}
+get me {n} unreserved booking from {orig} to {dest}
+i wish to get {n} unreserved booking from {orig} to {dest}
+will you please give me {n} unreserved booking from {orig} to {dest}
+i want to buy {n} unreserved booking running between {orig} and {dest}
+i want to buy {n} unreserved booking of train originating from {orig} to {dest}
+i want to buy {n} unreserved booking of trains originating from {orig} to {dest}
+i want to purchase {n} tickets from {orig} to {dest}
+purchase me {n} tickets from {orig} to {dest}
+purchase me {n} tickets for journey between {orig} and {dest}
+can i purchase {n} tickets from {orig} to {dest}
+from {orig} to {dest} i want to purchase {n} tickets
+i wish to purchase {n} tickets from {orig} to {dest}
+may i purchase {n} tickets from {orig} to {dest}
+can you purchase me {n} tickets from {orig} to {dest}
+hey can i purchase {n} bookings from {orig} to {dest}
+i want to purchase {n} tickets running between {orig} and {dest}
+i want to purchase {n} tickets of train originating from {orig} to {dest}
+i want to purchase {n} tickets of trains originating from {orig} to {dest}
+i want to purchase {n} unreserved bookings from {orig} to {dest}
+purchase me {n} unreserved bookings from {orig} to {dest}
+purchase me {n} unreserved bookings for journey between {orig} and {dest}
+can i purchase {n} unreserved bookings from {orig} to {dest}
+from {orig} to {dest} i want to purchase {n} unreserved bookings
+i wish to purchase {n} unreserved bookings from {orig} to {dest}
+may i purchase {n} unreserved bookings from {orig} to {dest}
+can you purchase me {n} unreserved bookings from {orig} to {dest}
+i want to purchase {n} unreserved bookings running between {orig} and {dest}
+i want to purchase {n} unreserved bookings of train originating from {orig} to {dest}
+i want to purchase {n} unreserved bookings of trains originating from {orig} to {dest}
+i want to purchase {n} ticket from {orig} to {dest}
+purchase me {n} ticket from {orig} to {dest}
+purchase me {n} ticket for journey between {orig} and {dest}
+can i purchase {n} ticket from {orig} to {dest}
+from {orig} to {dest} i want to purchase {n} ticket
+i wish to purchase {n} ticket from {orig} to {dest}
+may i purchase {n} ticket from {orig} to {dest}
+can you purchase me {n} ticket from {orig} to {dest}
+hey can i purchase {n} booking from {orig} to {dest}
+i want to purchase {n} ticket running between {orig} and {dest}
+i want to purchase {n} ticket of train originating from {orig} to {dest}
+i want to purchase {n} ticket of trains originating from {orig} to {dest}
+i want to purchase {n} unreserved booking from {orig} to {dest}
+purchase me {n} unreserved booking from {orig} to {dest}
+purchase me {n} unreserved booking for journey between {orig} and {dest}
+can i purchase {n} unreserved booking from {orig} to {dest}
+from {orig} to {dest} i want to purchase {n} unreserved booking
+i wish to purchase {n} unreserved booking from {orig} to {dest}
+may i purchase {n} unreserved booking from {orig} to {dest}
+can you purchase me {n} unreserved booking from {orig} to {dest}
+i want to purchase {n} unreserved booking running between {orig} and {dest}
+i want to purchase {n} unreserved booking of train originating from {orig} to {dest}
+i want to purchase {n} unreserved booking of trains originating from {orig} to {dest}
+can i buy {n} tickets from {orig} to {dest}
+may i buy {n} tickets from {orig} to {dest}
+hey can i buy {n} bookings from {orig} to {dest}
+can i buy {n} unreserved bookings from {orig} to {dest}
+may i buy {n} unreserved bookings from {orig} to {dest}
+can i buy {n} ticket from {orig} to {dest}
+may i buy {n} ticket from {orig} to {dest}
+hey can i buy {n} booking from {orig} to {dest}
+can i buy {n} unreserved booking from {orig} to {dest}
+may i buy {n} unreserved booking from {orig} to {dest}
+i am travelling from {orig} to {dest} can i get {n} tickets
+i want towards book {n} tickets from {orig} towards {dest}
+i want towards buy {n} tickets from {orig} towards {dest}
+can you give me {n} tickets from {orig} towards {dest}
+can you please give me {n} tickets from {orig} towards {dest}
+buy me {n} tickets from {orig} towards {dest}
+give me {n} tickets from {orig} towards {dest}
+can i get {n} tickets from {orig} towards {dest}
+from {orig} towards {dest} i want towards buy {n} tickets
+{n} tickets from {orig} towards {dest}
+from {orig} towards {dest} {n} tickets 
+i wish towards buy {n} tickets from {orig} towards {dest}
+may i get {n} tickets from {orig} towards {dest}
+can you buy me {n} tickets from {orig} towards {dest}
+i want towards make {n} unreserved bookings from {orig} towards {dest}
+hey can i get {n} bookings from {orig} towards {dest}
+book me {n} tickets from {orig} towards {dest}
+get me {n} tickets from {orig} towards {dest}
+i wish towards get {n} tickets from {orig} towards {dest}
+will you please give me {n} tickets from {orig} towards {dest}
+i want towards buy {n} tickets running between {orig} and {dest}
+i want towards buy {n} tickets of train originating from {orig} towards {dest}
+i want towards buy {n} tickets of trains originating from {orig} towards {dest}
+i want towards book {n} unreserved bookings from {orig} towards {dest}
+i want towards buy {n} unreserved bookings from {orig} towards {dest}
+can you give me {n} unreserved bookings from {orig} towards {dest}
+can you please give me {n} unreserved bookings from {orig} towards {dest}
+buy me {n} unreserved bookings from {orig} towards {dest}
+give me {n} unreserved bookings from {orig} towards {dest}
+can i get {n} unreserved bookings from {orig} towards {dest}
+from {orig} towards {dest} i want towards buy {n} unreserved bookings
+{n} unreserved bookings from {orig} towards {dest}
+from {orig} towards {dest} {n} unreserved bookings 
+i wish towards buy {n} unreserved bookings from {orig} towards {dest}
+may i get {n} unreserved bookings from {orig} towards {dest}
+can you buy me {n} unreserved bookings from {orig} towards {dest}
+book me {n} unreserved bookings from {orig} towards {dest}
+get me {n} unreserved bookings from {orig} towards {dest}
+i wish towards get {n} unreserved bookings from {orig} towards {dest}
+will you please give me {n} unreserved bookings from {orig} towards {dest}
+i want towards buy {n} unreserved bookings running between {orig} and {dest}
+i want towards buy {n} unreserved bookings of train originating from {orig} towards {dest}
+i want towards buy {n} unreserved bookings of trains originating from {orig} towards {dest}
+i want towards book {n} ticket from {orig} towards {dest}
+i want towards buy {n} ticket from {orig} towards {dest}
+can you give me {n} ticket from {orig} towards {dest}
+can you please give me {n} ticket from {orig} towards {dest}
+buy me {n} ticket from {orig} towards {dest}
+give me {n} ticket from {orig} towards {dest}
+can i get {n} ticket from {orig} towards {dest}
+from {orig} towards {dest} i want towards buy {n} ticket
+{n} ticket from {orig} towards {dest}
+from {orig} towards {dest} {n} ticket 
+i wish towards buy {n} ticket from {orig} towards {dest}
+may i get {n} ticket from {orig} towards {dest}
+can you buy me {n} ticket from {orig} towards {dest}
+i want towards make {n} unreserved booking from {orig} towards {dest}
+hey can i get {n} booking from {orig} towards {dest}
+book me {n} ticket from {orig} towards {dest}
+get me {n} ticket from {orig} towards {dest}
+i wish towards get {n} ticket from {orig} towards {dest}
+will you please give me {n} ticket from {orig} towards {dest}
+i want towards buy {n} ticket running between {orig} and {dest}
+i want towards buy {n} ticket of train originating from {orig} towards {dest}
+i want towards buy {n} ticket of trains originating from {orig} towards {dest}
+i want towards book {n} unreserved booking from {orig} towards {dest}
+i want towards buy {n} unreserved booking from {orig} towards {dest}
+can you give me {n} unreserved booking from {orig} towards {dest}
+can you please give me {n} unreserved booking from {orig} towards {dest}
+buy me {n} unreserved booking from {orig} towards {dest}
+give me {n} unreserved booking from {orig} towards {dest}
+can i get {n} unreserved booking from {orig} towards {dest}
+from {orig} towards {dest} i want towards buy {n} unreserved booking
+{n} unreserved booking from {orig} towards {dest}
+from {orig} towards {dest} {n} unreserved booking 
+i wish towards buy {n} unreserved booking from {orig} towards {dest}
+may i get {n} unreserved booking from {orig} towards {dest}
+can you buy me {n} unreserved booking from {orig} towards {dest}
+book me {n} unreserved booking from {orig} towards {dest}
+get me {n} unreserved booking from {orig} towards {dest}
+i wish towards get {n} unreserved booking from {orig} towards {dest}
+will you please give me {n} unreserved booking from {orig} towards {dest}
+i want towards buy {n} unreserved booking running between {orig} and {dest}
+i want towards buy {n} unreserved booking of train originating from {orig} towards {dest}
+i want towards buy {n} unreserved booking of trains originating from {orig} towards {dest}
+purchase me {n} tickets from {orig} towards {dest}
+can i purchase {n} tickets from {orig} towards {dest}
+may i purchase {n} tickets from {orig} towards {dest}
+can you purchase me {n} tickets from {orig} towards {dest}
+hey can i purchase {n} bookings from {orig} towards {dest}
+purchase me {n} unreserved bookings from {orig} towards {dest}
+can i purchase {n} unreserved bookings from {orig} towards {dest}
+may i purchase {n} unreserved bookings from {orig} towards {dest}
+can you purchase me {n} unreserved bookings from {orig} towards {dest}
+purchase me {n} ticket from {orig} towards {dest}
+can i purchase {n} ticket from {orig} towards {dest}
+may i purchase {n} ticket from {orig} towards {dest}
+can you purchase me {n} ticket from {orig} towards {dest}
+hey can i purchase {n} booking from {orig} towards {dest}
+purchase me {n} unreserved booking from {orig} towards {dest}
+can i purchase {n} unreserved booking from {orig} towards {dest}
+may i purchase {n} unreserved booking from {orig} towards {dest}
+can you purchase me {n} unreserved booking from {orig} towards {dest}
+can i buy {n} tickets from {orig} towards {dest}
+may i buy {n} tickets from {orig} towards {dest}
+hey can i buy {n} bookings from {orig} towards {dest}
+can i buy {n} unreserved bookings from {orig} towards {dest}
+may i buy {n} unreserved bookings from {orig} towards {dest}
+can i buy {n} ticket from {orig} towards {dest}
+may i buy {n} ticket from {orig} towards {dest}
+hey can i buy {n} booking from {orig} towards {dest}
+can i buy {n} unreserved booking from {orig} towards {dest}
+may i buy {n} unreserved booking from {orig} towards {dest}
+i am travelling from {orig} towards {dest} can i get {n} tickets

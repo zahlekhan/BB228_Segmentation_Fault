@@ -1,0 +1,250 @@
+i want to know running status of {train}
+can you please tell me running status of {train}
+can you tell me running status of {train}
+hey please tell me running status of {train}
+please let me know running status of {train}
+i wish to know running status of {train}
+where is {train}
+location of {train}
+what is running status of {train}
+tell me location of {train}
+what is location of {train}
+where is the {train}
+running status of {train}
+get me location of {train}
+get me the location of {train}
+i need to know the ruuning status of {train}
+i need to know the location of {train}
+i need to know where is {train}
+i need the information ruuning status of {train}
+i need information about the location of {train}
+i need the information ruuning status of {train}
+i need information about the location of {train}
+information ruuning status of {train}
+information about the location of {train}
+information ruuning status of {train}
+information about the location of {train}
+i need the about the location information of {train}
+i need to know where is {train}
+tell me the running information of {train}
+tell me the running status of {train}
+please tell me running status of {train}
+please give me information of {train}
+give me some running information of {train}
+give me running status of {train}
+where is {train}
+i need the info ruuning status of {train}
+i need info about the location of {train}
+i need the info ruuning status of {train}
+i need info about the location of {train}
+info about the running status of {train}
+info about the location of {train}
+info about running status of {train}
+info about the location of {train}
+i need the about the location info of {train}
+i wish to know the running status of {train}
+i wish to know the location of {train}
+can i get the running status of {train}
+can i get the location of {train}
+can i know where is {train}
+may i know the running status of {train}
+may i know the location of {train}
+may i get the running information about the {train}
+may i get the running status of the {train}
+may i get the location of the {train}
+show me the running status of {train}
+show me the running information of {train}
+show me the location of {train}
+show me where is {train}
+please show me the running status of {train}
+please show me the running information of {train}
+please show me the location of {train}
+please show me where is {train}
+i want to know running status of train numbered {train}
+can you please tell me running status of train numbered {train}
+can you tell me running status of train numbered {train}
+hey please tell me running status of train numbered {train}
+please let me know running status of train numbered {train}
+i wish to know running status of train numbered {train}
+where is train numbered {train}
+location of train numbered {train}
+what is running status of train numbered {train}
+tell me location of train numbered {train}
+what is location of train numbered {train}
+where is the train numbered {train}
+running status of train numbered {train}
+get me location of train numbered {train}
+get me the location of train numbered {train}
+i need to know the ruuning status of train numbered {train}
+i need to know the location of train numbered {train}
+i need to know where is train numbered {train}
+i need the information ruuning status of train numbered {train}
+i need information about the location of train numbered {train}
+i need the information ruuning status of train numbered {train}
+i need information about the location of train numbered {train}
+information ruuning status of train numbered {train}
+information about the location of train numbered {train}
+information ruuning status of train numbered {train}
+information about the location of train numbered {train}
+i need the about the location information of train numbered {train}
+i need to know where is train numbered {train}
+tell me the running information of train numbered {train}
+tell me the running status of train numbered {train}
+please tell me running status of train numbered {train}
+please give me information of train numbered {train}
+give me some running information of train numbered {train}
+give me running status of train numbered {train}
+where is train numbered {train}
+i need the info ruuning status of train numbered {train}
+i need info about the location of train numbered {train}
+i need the info ruuning status of train numbered {train}
+i need info about the location of train numbered {train}
+info about the running status of train numbered {train}
+info about the location of train numbered {train}
+info about running status of train numbered {train}
+info about the location of train numbered {train}
+i need the about the location info of train numbered {train}
+i wish to know the running status of train numbered {train}
+i wish to know the location of train numbered {train}
+can i get the running status of train numbered {train}
+can i get the location of train numbered {train}
+can i know where is train numbered {train}
+may i know the running status of train numbered {train}
+may i know the location of train numbered {train}
+may i get the running information about the train numbered {train}
+may i get the running status of the train numbered {train}
+may i get the location of the train numbered {train}
+show me the running status of train numbered {train}
+show me the running information of train numbered {train}
+show me the location of train numbered {train}
+show me where is train numbered {train}
+please show me the running status of train numbered {train}
+please show me the running information of train numbered {train}
+please show me the location of train numbered {train}
+please show me where is train numbered {train}
+i want to know running status of train having number {train}
+can you please tell me running status of train having number {train}
+can you tell me running status of train having number {train}
+hey please tell me running status of train having number {train}
+please let me know running status of train having number {train}
+i wish to know running status of train having number {train}
+where is train having number {train}
+location of train having number {train}
+what is running status of train having number {train}
+tell me location of train having number {train}
+what is location of train having number {train}
+where is the train having number {train}
+running status of train having number {train}
+get me location of train having number {train}
+get me the location of train having number {train}
+i need to know the ruuning status of train having number {train}
+i need to know the location of train having number {train}
+i need to know where is train having number {train}
+i need the information ruuning status of train having number {train}
+i need information about the location of train having number {train}
+i need the information ruuning status of train having number {train}
+i need information about the location of train having number {train}
+information ruuning status of train having number {train}
+information about the location of train having number {train}
+information ruuning status of train having number {train}
+information about the location of train having number {train}
+i need the about the location information of train having number {train}
+i need to know where is train having number {train}
+tell me the running information of train having number {train}
+tell me the running status of train having number {train}
+please tell me running status of train having number {train}
+please give me information of train having number {train}
+give me some running information of train having number {train}
+give me running status of train having number {train}
+where is train having number {train}
+i need the info ruuning status of train having number {train}
+i need info about the location of train having number {train}
+i need the info ruuning status of train having number {train}
+i need info about the location of train having number {train}
+info about the running status of train having number {train}
+info about the location of train having number {train}
+info about running status of train having number {train}
+info about the location of train having number {train}
+i need the about the location info of train having number {train}
+i wish to know the running status of train having number {train}
+i wish to know the location of train having number {train}
+can i get the running status of train having number {train}
+can i get the location of train having number {train}
+can i know where is train having number {train}
+may i know the running status of train having number {train}
+may i know the location of train having number {train}
+may i get the running information about the train having number {train}
+may i get the running status of the train having number {train}
+may i get the location of the train having number {train}
+show me the running status of train having number {train}
+show me the running information of train having number {train}
+show me the location of train having number {train}
+show me where is train having number {train}
+please show me the running status of train having number {train}
+please show me the running information of train having number {train}
+please show me the location of train having number {train}
+please show me where is train having number {train}
+i want to know running status of train {train}
+can you please tell me running status of train {train}
+can you tell me running status of train {train}
+hey please tell me running status of train {train}
+please let me know running status of train {train}
+i wish to know running status of train {train}
+where is train {train}
+location of train {train}
+what is running status of train {train}
+tell me location of train {train}
+what is location of train {train}
+where is the train {train}
+running status of train {train}
+get me location of train {train}
+get me the location of train {train}
+i need to know the ruuning status of train {train}
+i need to know the location of train {train}
+i need to know where is train {train}
+i need the information ruuning status of train {train}
+i need information about the location of train {train}
+i need the information ruuning status of train {train}
+i need information about the location of train {train}
+information ruuning status of train {train}
+information about the location of train {train}
+information ruuning status of train {train}
+information about the location of train {train}
+i need the about the location information of train {train}
+i need to know where is train {train}
+tell me the running information of train {train}
+tell me the running status of train {train}
+please tell me running status of train {train}
+please give me information of train {train}
+give me some running information of train {train}
+give me running status of train {train}
+where is train {train}
+i need the info ruuning status of train {train}
+i need info about the location of train {train}
+i need the info ruuning status of train {train}
+i need info about the location of train {train}
+info about the running status of train {train}
+info about the location of train {train}
+info about running status of train {train}
+info about the location of train {train}
+i need the about the location info of train {train}
+i wish to know the running status of train {train}
+i wish to know the location of train {train}
+can i get the running status of train {train}
+can i get the location of train {train}
+can i know where is train {train}
+may i know the running status of train {train}
+may i know the location of train {train}
+may i get the running information about the train {train}
+may i get the running status of the train {train}
+may i get the location of the train {train}
+show me the running status of train {train}
+show me the running information of train {train}
+show me the location of train {train}
+show me where is train {train}
+please show me the running status of train {train}
+please show me the running information of train {train}
+please show me the location of train {train}
+please show me where is train {train}
+let me know the running status of {train}
+let me know the location of {train}
